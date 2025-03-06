@@ -18,3 +18,4 @@ static int staticVar = 50;
 void printStaticVar() {
     printf("StaticVar (file1.c): %d\n", staticVar);
 }
+  
