@@ -31,7 +31,7 @@ This repository serves as a log of my progress in learning C, covering fundament
 This is a personal learning repository, but if you have suggestions or improvements, feel free to open an issue or submit a pull request!
 
 ## License
-This project is open-source and available under the MIT License. Feel free to use and modify the code for learning purposes.
+This project is open-source and available under the [MIT License](https://github.com/yosefther/my-c-journey/edit/main/LICENSE). Feel free to use and modify the code for learning purposes.
 
 ---
 
