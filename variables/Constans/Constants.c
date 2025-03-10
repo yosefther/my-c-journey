@@ -15,7 +15,7 @@ void showConstants() {
 
     printf("PI (Macro Constant): %f\n", PI);
     printf("Max Users (Macro Constant): %d\n", MAX_USERS);
-    printf("Gravity (Static Const): %.2f m/s²\n", GRAVITY);
+    printf("Gravity (Static Const): %.2f m/s^2\n", GRAVITY);
     printf("Grade (Const Variable): %c\n", GRADE);
     printf("Message (Const String): %s\n", MESSAGE);
 }
