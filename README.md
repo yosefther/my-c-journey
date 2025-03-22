@@ -51,10 +51,17 @@ This repository serves as a log of my progress in learning C, covering fundament
    ./output
    ```
 
-## Contributions
+# Contributions
 This is a personal learning repository, but if you have suggestions or improvements, feel free to open an issue or submit a pull request!
 
-## License
+# Disclaimer
+
+This repository documents my journey in learning the C programming language. As a student, I am still in the process of learning, and some of the code or explanations may contain mistakes or bad practices.
+
+If you find any errors or have suggestions for improvements, feel free to open an issue or submit a pull request. Constructive feedback is always welcome!
+
+
+# License
 This project is open-source and available under the [MIT License](https://github.com/yosefther/my-c-journey/edit/main/LICENSE). Feel free to use and modify the code for learning purposes.
 
 ---
