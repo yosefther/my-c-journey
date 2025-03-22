@@ -15,6 +15,30 @@ This repository serves as a log of my progress in learning C, covering fundament
 - System programming concepts
 - Mini projects
 
+## topic search
+   [ **Array** ](https://github.com/yosefther/my-c-journey/tree/main/Array) 
+   
+   [ **Function** ](https://github.com/yosefther/my-c-journey/tree/main/Function)
+
+   [ **flow control statements <for ,if ,switch ,while >** ](https://github.com/yosefther/my-c-journey/tree/main/flow%20control%20statements)
+   
+   [**extern**](https://github.com/yosefther/my-c-journey/tree/main/variables/extern_example)
+
+   [ **static** ](https://github.com/yosefther/my-c-journey/tree/main/variables/static_example)
+
+   [ **Auto** ](https://github.com/yosefther/my-c-journey/blob/main/variables/Auto.c)
+
+   [**DataType**](https://github.com/yosefther/my-c-journey/blob/main/variables/DataType.c)
+   
+   [**Register**](https://github.com/yosefther/my-c-journey/blob/main/variables/Register.c)
+
+   [**Scope**](https://github.com/yosefther/my-c-journey/blob/main/variables/Scope.c)
+
+   [**Constans**](https://github.com/yosefther/my-c-journey/tree/main/variables/Constans)
+
+   [**Struct**](https://github.com/yosefther/my-c-journey/blob/main/Struct.c)
+
+
 ## How to Use This Repository
 1. Clone the repository:
    ```sh
