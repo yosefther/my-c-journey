@@ -5,3 +5,4 @@
 [ ] add to PassByReferance.c Pointer to Pointer example 
 [ ] add to PassByReferance.c Modifying a String Using Pass by Reference example
 [ ] add to PassByReferance.c Passing a Structure by Reference example 
+[ ] fix pointerVisual.py 
