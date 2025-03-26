@@ -7,7 +7,7 @@
 - [x] Understand **Data Types, Operators, Control Flow (if, loops, switch)**
 
 ### 📌 Projects:
-- [ ] Create a simple **CLI calculator**
+- [x] Create a simple **CLI calculator**
 - [ ] Write a program to **reverse a string**
 
 ---
