@@ -8,7 +8,7 @@
 
 ### 📌 Projects:
 - [x] Create a simple **CLI calculator**
-- [ ] Write a program to **reverse a string**
+- [x] Write a program to **reverse a string**
 
 ---
 
